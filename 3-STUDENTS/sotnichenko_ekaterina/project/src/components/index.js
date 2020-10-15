@@ -22,7 +22,7 @@ export default () => {
             add(product) {
                 let find = this.basketArr.find(el => el.productId == product.productId);
                 if (!find) {
-                    this.basketArr.push(Object.assign(product, { amount: 1 }));
+                    this.basketArr.push(Object.assign({}, product, { amount: 1 }));
                 } else {
                     find.amount++;
                 };
