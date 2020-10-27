@@ -2,7 +2,7 @@
 <div class="subscribe">
     <div class="subscribe__inner center">
         <div class="subscribe__left">
-            <img class="subscribe__avatar" src="../../../src/assets/imgs/subscribe/avatar.png" alt="#">
+            <img class="subscribe__avatar" src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Avatar.png" alt="#">
             <div class="subscribe__content">
                 <div class="subscribe__text">“Vestibulum quis porttitor dui! Quisque viverra nunc mi, a pulvinar purus condimentum a. Aliquam condimentum mattis neque sed pretium”</div>
                 <div class="subscribe__author">

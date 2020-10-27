@@ -1,17 +1,15 @@
 <template>
 <div class="header__left">
-    <router-link :to="{name: 'Index'}">
-        <span class="logo">
-            <img class="logo__img" src="../../../src/assets/imgs/logo.png" alt="logo">
+        <router-link to="/" class="logo">
+            <img class="logo__img" src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/logo.png" alt="logo">
             <span class="logo__text">BRAN
                 <span class="logo__text--last_letter">D</span>
             </span>
-        </span>
-    </router-link>
+        </router-link>
     <div class="header__form">
         <button class="header__browse" onclick="displayMenu()">Browse</button>
         <input class="header__input" type="text" name="name" placeholder="Search for Item...">
-        <button class="header__search"><img src="../../../src/assets/imgs/search.png" alt="search"></button>
+        <button class="header__search"><img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/search.png" alt="search"></button>
         <div id="mega_menu" class="mega_menu mega_menu--browse">
             <div class="mega_menu__column">
                 <h6 class="mega_menu__title">Women</h6>

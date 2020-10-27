@@ -154,15 +154,15 @@
                 </div>
                 <div class="mt-4 sortBy d-flex justify-content-around justify-content-md-start">
                     <form class="py-3">
-                        <label class="px-2 ml-3 mb-0" for="sortBy">Sort By</label>
-                        <select class="" id="sortBy">
+                        <label class="px-2 ml-3 mb-0" for="sortBy1">Sort By</label>
+                        <select class="" id="sortBy1">
                             <option selected>Name</option>
                             <option value="1">Price</option>
                         </select>
                     </form>
                     <form class="py-3">
-                        <label class="px-2 ml-3 mb-0" for="sortBy">Show</label>
-                        <select class="" id="sortBy">
+                        <label class="px-2 ml-3 mb-0" for="sortBy2">Show</label>
+                        <select class="" id="sortBy2">
                             <option selected>09</option>
                             <option value="1">18</option>
                             <option value="2">36</option>

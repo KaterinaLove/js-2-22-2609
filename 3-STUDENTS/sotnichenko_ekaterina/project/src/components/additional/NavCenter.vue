@@ -2,106 +2,60 @@
 <div>
     <nav class="nav center">
         <ul class="menu">
-            
             <li class="menu__list">
-                <router-link :to="{name: 'Index'}">
-                    <span class="menu__link active">Home</span>
-                </router-link>
+                <router-link to="/" class="menu__link active">Home</router-link>
             </li>
             <li class="menu__list">
-                <router-link :to="{name: 'Product'}">
-                    <div class="menu__link">Man</div>
-                </router-link>
-                <div class="mega_menu">
-                    <div class="mega_menu__column">
-                        <h6 class="mega_menu__title">Women</h6>
-                        <ul class="mega_menu__ul">
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Dresses</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Tops</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Sweaters/Knits</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Jackets/Coats</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Blazers</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Denim</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Leggings/Pants</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Skirts/Shorts</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Accessories </a></li>
-                        </ul>
-                    </div>
-                    <div class="mega_menu__column">
-                        <h6 class="mega_menu__title">Women</h6>
-                        <ul class="mega_menu__ul">
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Dresses</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Tops</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Sweaters/Knits</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Jackets/Coats</a></li>
-                        </ul>
-                        <h6 class="mega_menu__title mega_menu__title--middle">Women</h6>
-                        <ul class="mega_menu__ul">
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Dresses</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Tops</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Sweaters/Knits</a></li>
-                        </ul>
-                    </div>
-                    <div class="mega_menu__column">
-                        <h6 class="mega_menu__title">Women</h6>
-                        <ul class="mega_menu__ul">
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Dresses</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Tops</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Sweaters/Knits</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Jackets/Coats</a></li>
-                        </ul>
-                        <img src="../../../src/assets/imgs/mega_menu.png" alt="#">
-                    </div>
-                </div>
+                <a @click="$router.push('/Product')" class="menu__link">Man</a>
+                <MegaMenu 
+                        srcImg="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/mega_menu.png" 
+                        nameCategory="Man" 
+                        style="left: 15px" />
             </li>
-            <li class="menu__list"><a href="shoping_cart.html" class="menu__link">Women</a></li>
-            <li class="menu__list"><a href="product.html" class="menu__link">Kids</a></li>
-            <li class="menu__list"><a href="product.html" class="menu__link">Accoseriese</a></li>
-            <li class="menu__list"><a href="product.html" class="menu__link">Featured</a></li>
-            <li class="menu__list"><a href="product.html" class="menu__link">Hot Deals</a>
-                <div class="mega_menu mega_menu--left">
-                    <div class="mega_menu__column">
-                        <h6 class="mega_menu__title">Women</h6>
-                        <ul class="mega_menu__ul">
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Dresses</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Tops</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Sweaters/Knits</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Jackets/Coats</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Blazers</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Denim</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Leggings/Pants</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Skirts/Shorts</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Accessories </a></li>
-                        </ul>
-                    </div>
-                    <div class="mega_menu__column">
-                        <h6 class="mega_menu__title">Women</h6>
-                        <ul class="mega_menu__ul">
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Dresses</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Tops</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Sweaters/Knits</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Jackets/Coats</a></li>
-                        </ul>
-                        <h6 class="mega_menu__title mega_menu__title--middle">Women</h6>
-                        <ul class="mega_menu__ul">
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Dresses</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Tops</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Sweaters/Knits</a></li>
-                        </ul>
-                    </div>
-                    <div class="mega_menu__column">
-                        <h6 class="mega_menu__title">Women</h6>
-                        <ul class="mega_menu__ul">
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Dresses</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Tops</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Sweaters/Knits</a></li>
-                            <li class="mega_menu__list"><a href="" class="mega_menu__link">Jackets/Coats</a></li>
-                        </ul>
-                        <img src="../../../src/assets/imgs/mega_menu.png" alt="#">
-                    </div>
-                </div>
+            <li class="menu__list">
+                <a @click="$router.push('/Product')" class="menu__link">Women</a>
+                <MegaMenu 
+                        srcImg="https://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkCuCuOvCo6gPIccMCgDGytaaKTM5SRkZCeTgDn6uOyic" 
+                        nameCategory="Women" 
+                        style="left: 45px" />
+            </li>
+            <li class="menu__list">
+                <a @click="$router.push('/Product')" class="menu__link">Kids</a>
+                <MegaMenu 
+                        srcImg="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/kids.jpg" 
+                        nameCategory="Kids" />
+            </li>
+            <li class="menu__list">
+                <a @click="$router.push('/Product')" class="menu__link">Accosseriese</a>
+                <MegaMenu 
+                        srcImg="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/accessories.jpg" 
+                        nameCategory="Accoseriese" />
+            </li>
+            <li class="menu__list">
+                <a @click="$router.push('/Product')" class="menu__link">Featured</a>
+                <MegaMenu 
+                        srcImg="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/applications-featured-icon.png" 
+                        nameCategory="Featured" 
+                        style="right: 45px" />
+            </li>
+            <li class="menu__list">
+                <a @click="$router.push('/Product')" class="menu__link">Hot Deals</a>
+                <MegaMenu 
+                        srcImg="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/hotdeal.png" 
+                        nameCategory="Hot Deals" 
+                        style="right: 15px" />
             </li>
         </ul>
     </nav>
 </div>
 </template>
+
+<script>
+import MegaMenu from '../product/MegaMenu';
+
+export default {
+    components: {
+        MegaMenu
+    }
+}
+</script>

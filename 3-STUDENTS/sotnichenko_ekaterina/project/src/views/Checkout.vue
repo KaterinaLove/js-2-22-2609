@@ -2,7 +2,7 @@
     <div>
         <HeaderProduct />
         <div class="headerLine"></div>
-        <NavProduct />
+        <NavCenter />
         <NewArrivalsBg />
         <main>
             <ShippingAdress item="01." type="Shipping Adress"/>
@@ -20,7 +20,7 @@
 
 <script>
 import HeaderProduct from '../components/product/HeaderProduct.vue';
-import NavProduct from '../components/product/NavProduct.vue';
+import NavCenter from '../components/additional/NavCenter.vue';
 import NewArrivalsBg from '../components/product/NewArrivalsBg.vue';
 import ShippingAdress from '../components/product/ShippingAdress.vue';
 import SubscribeBg from '../components/product/SubscribeBg.vue';
@@ -30,7 +30,7 @@ import BgCopyrights from '../components/product/BgCopyrights.vue';
 export default {
     components: {
         HeaderProduct,
-        NavProduct,
+        NavCenter,
         NewArrivalsBg,
         ShippingAdress,
         SubscribeBg,

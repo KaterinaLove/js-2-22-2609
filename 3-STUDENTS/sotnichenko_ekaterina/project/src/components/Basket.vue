@@ -11,10 +11,8 @@
         <div>TOTAL</div>
         <div id="total-sum">{{ '$' + sum }}</div>
     </div>
-    <router-link :to="{name: 'Checkout'}">
-        <span class="drop__link">Checkout</span>
-    </router-link>
-    <a href="#" class="drop__link">Go to cart</a>
+        <a @click="$router.push('/Checkout')" class="drop__link">Checkout</a>
+    <router-link to="/ShoppingCart" class="drop__link">Go to cart</router-link>
 </div>
 </template>
 

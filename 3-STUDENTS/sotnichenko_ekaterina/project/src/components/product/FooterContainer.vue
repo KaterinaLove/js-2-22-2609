@@ -5,10 +5,8 @@
                 <div class="col-12 px-0
                             col-lg-6">
                     <div class="logo d-flex justify-content-center pb-3 justify-content-lg-start">
-                        <router-link :to="{name: 'Index'}">
-                            <span class="pr-2"><img src="../../../src/assets/imgs/logo.png" alt="logo"></span>
-                            <span class="pr-3 pr-xl-3 pr-lg-0 pr-md-2 pr-sm-2 brand">bran<span>d</span></span>
-                        </router-link>
+                            <router-link to="/" class="pr-2"><img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/logo.png" alt="logo"></router-link>
+                            <router-link to="/" class="pr-3 pr-xl-3 pr-lg-0 pr-md-2 pr-sm-2 brand">bran<span>d</span></router-link>
                     </div>
                     <div class="d-flex flex-column flex-sm-row px-5 px-sm-0 flex-lg-column">
                         <div class="footerBrandText pb-4 pr-sm-3">
@@ -28,7 +26,7 @@
                             pl-sm-0 d-sm-flex">
                     <div class="footerColumn">
                         <h2>COMPANY</h2>
-                        <a href="#">Home</a>
+                        <router-link to="/">Home</router-link>
                         <a href="#">Shop</a>
                         <a href="#">About</a>
                         <a href="#">How It Works</a>
@@ -54,7 +52,7 @@
                 <div class="bottomNavXS col-12 d-flex flex-column d-sm-none">
                     <h2 class="d-flex justify-content-around">COMPANY</h2>
                     <div class="footerColumn d-flex justify-content-around px-5">
-                        <a href="#">Home</a>
+                        <router-link to="/">Home</router-link>
                         <a href="#">Shop</a>
                         <a href="#">About</a>
                         <a href="#">How It Works</a>

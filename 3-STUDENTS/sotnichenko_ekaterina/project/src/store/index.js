@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import fetchBasket from './modules/fetchBasket'
 import fetchCatalog from './modules/fetchCatalog'
+//import $axXios from '../utils/axios' //при использовании настоящего не надо импортировать
 
 Vue.use(Vuex)
 

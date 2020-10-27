@@ -4,7 +4,7 @@
             <div class="row pb-5 pt-0 pt-lg-5">
                 <div class="d-flex col-lg-6 px-0 mt-5 mb-5 pr-0 pr-lg-5">
                     <div class="col-2 col-md-2 d-flex align-self-start">
-                        <img src="../../../src/assets/imgs/Avatar.png" alt="Avatar">
+                        <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Avatar.png" alt="Avatar">
                     </div>
                     <div class="col-10 pl-5 pl-md-2 pl-lg-5">
                         <blockquote class="reviewsTextMassage ">

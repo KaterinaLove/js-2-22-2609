@@ -8,7 +8,7 @@
                             col-sm-8 offset-sm-2
                             col-md-6 offset-md-0
                             col-lg-4">
-                    <img src="../../../src/assets/imgs/Truck.png" alt="Truck">
+                    <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Truck.png" alt="Truck">
                     <div>Free Delivery</div>
                     <div>Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</div>
                 </div>
@@ -17,7 +17,7 @@
                             col-sm-8 offset-sm-2
                             col-md-6 offset-md-0 pt-md-0
                             col-lg-4">
-                    <img src="../../../src/assets/imgs/percent.png" alt="percent">
+                    <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/percent.png" alt="percent">
                     <div>Sales &amp; discounts</div>
                     <div>Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</div>
                 </div>
@@ -26,7 +26,7 @@
                             col-sm-8 offset-sm-2
                             col-md-12 mt-md-5 offset-md-0 pt-md-0
                             col-lg-4 mt-lg-0">
-                    <img src="../../../src/assets/imgs/Crown.png" alt="crown">
+                    <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Crown.png" alt="crown">
                     <div>Quality assurance</div>
                     <div>Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</div>
                 </div>

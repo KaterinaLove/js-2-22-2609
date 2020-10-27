@@ -1,26 +1,20 @@
+import $axXios from '../../utils/axios'
+
 export default {
     state: {
-        itemsC: []
-    },
-    mutations: {
-        apdateItemCatalog(state, itemsC) {
-            state.itemsC = itemsC
-        }
+        itemsCatalog: [],
+        urlCatalog: '/api/catalog'
     },
     actions: {
-        fetchItemsCatalog(ctx) {
-            return fetch('/api/catalog')
-                .then(data => data.json())
-                .then(itemsC => this.itemsC = itemsC)
-                .finally(() => {
-                ctx.commit('apdateItemCatalog', this.itemsC)
-                })
-                
+        fetchItemsCatalog(context) {
+            $axXios.get(context.state.urlCatalog)
+            .then(itemsCatalog => context.state.itemsCatalog = itemsCatalog)
+            .catch(err => console.log(err))
         }
     },
     getters: {
         allItemsCatalog(state) {
-            return state.itemsC
+            return state.itemsCatalog
         }
     }
 }

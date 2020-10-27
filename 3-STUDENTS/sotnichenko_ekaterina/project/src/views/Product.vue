@@ -1,8 +1,8 @@
 <template>
     <div>
-        <HeaderProduct />
-        <div class="headerLine"></div>
-        <NavProduct />
+            <HeaderProduct />
+            <div class="headerLine"></div>
+            <NavCenter />
         <NewArrivalsBg />
         <main>
             <Navigation />
@@ -16,7 +16,7 @@
 
 <script>
 import HeaderProduct from '../components/product/HeaderProduct.vue';
-import NavProduct from '../components/product/NavProduct.vue';
+import NavCenter from '../components/additional/NavCenter.vue';
 import NewArrivalsBg from '../components/product/NewArrivalsBg.vue';
 import FooterContainer from '../components/product/FooterContainer.vue';
 import BgCopyrights from '../components/product/BgCopyrights.vue';
@@ -27,7 +27,7 @@ import SubscribeBg from '../components/product/SubscribeBg.vue';
 export default {
     components: {
         HeaderProduct,
-        NavProduct,
+        NavCenter,
         NewArrivalsBg,
         FooterContainer,
         BgCopyrights,

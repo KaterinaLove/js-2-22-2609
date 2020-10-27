@@ -1,21 +1,16 @@
+import { error } from 'jquery'
+import $axXios from '../../utils/axios'
+
 export default {
     state: {
-        items: []
-    },
-    mutations: {
-        apdateItem(state, items) {
-            state.items = items
-        }
+        items: [],
+        url: '/api/basket'
     },
     actions: {
-        fetchItems(ctx) {
-            return fetch('/api/basket')
-                .then(data => data.json())
-                .then(items => this.items = items.content)
-                .finally(() => {
-                    ctx.commit('apdateItem', this.items)
-                })
-                
+        fetchItems(context) {
+            $axXios.get(context.state.url)
+                .then(items => context.state.items = items.content)
+                .catch(err => console.log(err))
         }
     },
     getters: {
@@ -30,17 +25,50 @@ export default {
         add: state => product => {
             let find = state.items.find(el => el.productId == product.productId);
             if (!find) {
-                state.items.push(Object.assign({}, product, { amount: 1 }));
+                let newItem = Object.assign({}, product, { amount: 1 });
+                $axXios.post(`${state.url}`, newItem)
+                .then(status => {
+                    if(status) {
+                        state.items.push(newItem);
+                    }
+                })
+                .catch(e => {
+                    console.log(e);
+                })
             } else {
-                find.amount++;
+                $axXios.put(`${state.url}/${find.productId}`, 1)
+                .then(status => {
+                    if(status) {
+                        find.amount++;
+                    }
+                })
+                .catch(e => {
+                    console.log(e);
+                })
             };
         },
         remove: state => id => {
             let find = state.items.find(el => el.productId == id);
             if (find.amount > 1) {
-                find.amount--;
+                $axXios.put(`${state.url}/${id}`, -1)
+                .then(status => {
+                    if(status) {
+                        find.amount--;
+                    }
+                })
+                .catch(e => {
+                    console.log(e);
+                })
             } else {
-                state.items.splice(state.items.indexOf(find), 1);
+                $axXios.delete(`${state.url}/${id}`)
+                .then(status => {
+                    if(status) {
+                        state.items.splice(state.items.indexOf(find), 1);
+                    }
+                })
+                .catch(e => {
+                    console.log(e);
+                })
             }
         }
     }

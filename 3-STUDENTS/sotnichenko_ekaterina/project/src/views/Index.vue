@@ -7,12 +7,12 @@
                 <div class="header__bucket">
                     <div class="header__count" id="basket-count"></div>
                     <button id="basket-toggler" @click="show = !show">
-                        <img class="header__cart" src="../../src/assets/imgs/cart.png" alt="cart">
+                        <img class="header__cart" src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/cart.png" alt="cart">
                     </button>
                     <Basket :show="show"/>
                     <!--ref="basket"  -->
                 </div>
-                <a class="header__link" href="#">My Account</a>
+                <MyAccount  />
             </div>
         </header>
         <NavCenter />
@@ -22,13 +22,10 @@
             <h3 class="catalog__header">Featured Items</h3>
             <p class="catalog__header_text">Shop for items based on what we featured in this week</p>
             <Catalog  />
-            <!-- @add="_add" -->
             <div class="catalog__button">
-                <router-link :to="{name: 'Product'}">
-                    <span class="catalog__link" >Browse All Product
+                    <a @click="$router.push('/Product')" class="catalog__link" >Browse All Product
                         <i class="fas fa-long-arrow-alt-right"></i>
-                    </span>
-                </router-link>
+                    </a>
             </div>
         </section>
         <OfferCenter />
@@ -66,11 +63,13 @@ import OfferCenter from '../components/additional/OfferCenter.vue';
 import Subscribe from '../components/additional/Subscribe.vue';
 import ContactsCenter from '../components/additional/ContactsCenter.vue';
 import FooterBox from '../components/additional/FooterBox.vue';
+import MyAccount from '../components/additional/MyAccount.vue';
+
 
 export default {
     data() {
         return {
-            show: true
+            show: false
         }
     },
   name: 'Home',
@@ -84,7 +83,8 @@ export default {
     OfferCenter,
     Subscribe,
     ContactsCenter,
-    FooterBox
+    FooterBox,
+    MyAccount
   }
 }
 </script>

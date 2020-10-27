@@ -3,13 +3,13 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner container">
                 <div class="carousel-item active">
-                    <img src="../../../src/assets/imgs/slide1.jpg" class="d-block" alt="slide1">
+                    <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/slide1.jpg" class="d-block" alt="slide1">
                 </div>
                 <div class="carousel-item">
-                    <img src="../../../src/assets/imgs/slide1.jpg" class="d-block" alt="slide2">
+                    <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/slide1.jpg" class="d-block" alt="slide2">
                 </div>
                 <div class="carousel-item">
-                    <img src="../../../src/assets/imgs/slide1.jpg" class="d-block" alt="slide3">
+                    <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/slide1.jpg" class="d-block" alt="slide3">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">

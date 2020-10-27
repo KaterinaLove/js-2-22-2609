@@ -1,0 +1,271 @@
+[
+    {
+        "productName":"MANGO PEOPLE T-SHIRT",
+        "productPrice":52,
+        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        "producSizes": [
+            "xxs",
+            "xs",
+            "s",
+            "m",
+            "l"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum ratione, impedit hic neque consequuntur iusto. Tempore dolorum consequuntur rem alias veniam sit deserunt iure vitae inventore, quaerat sequi quidem laboriosam! Libero quisquam enim distinctio quod excepturi ipsam consequatur natus asperiores suscipit nihil, quaerat corporis ipsa accusantium, est veniam, velit doloribus. Ex perspiciatis dolore vel omnis, nemo dolorem pariatur quaerat voluptatum. Soluta sint quae suscipit in quibusdam libero vero iusto deleniti architecto corrupti? Similique laudantium qui, molestiae labore quis velit animi rerum nam ipsam commodi delectus aliquid praesentium dolorum odio asperiores! Quo excepturi pariatur beatae suscipit deleniti dolor voluptas, sequi assumenda tenetur ipsam totam possimus ratione voluptatibus facilis distinctio eveniet velit, numquam laudantium hic exercitationem et reprehenderit? Asperiores delectus voluptatibus quam? Suscipit fuga aliquam nulla ex, error saepe ipsum sequi nisi perferendis nemo. Maiores amet repudiandae, iste a molestiae laboriosam quam non sapiente velit, ipsa ratione impedit illum earum, architecto quia.",
+        "producStars":"5",
+        "producCategory":"man",
+        "producBrend":"Accessories",
+        "productId":"prod_0"
+    },
+    {
+        "productName":"BANANA PEOPLE T-SHIRT",
+        "productPrice":53,
+        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem2.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem2.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem2.jpg",
+        "producSizes": [
+            "xxl",
+            "xl",
+            "l",
+            "m",
+            "s"
+        ],
+        "producDescription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est amet vero quasi ipsam fugit rem eum eius nihil asperiores blanditiis tempora assumenda pariatur voluptatem corporis provident, fuga impedit, molestiae possimus? Unde, perferendis a vel quos, repellendus veritatis porro tenetur eveniet rerum quia modi voluptatem enim, dolorum impedit ut. Iste quam, facere totam amet consequatur tempora qui dicta exercitationem facilis sed? Aliquam consectetur illo distinctio sunt aliquid facere ratione nulla, dolor quibusdam animi doloribus similique sint deserunt sapiente asperiores minima vitae nisi minus quaerat quas! Eos inventore dolores obcaecati. At, rerum. Aperiam dignissimos similique quaerat dicta fuga quasi corrupti quas rem. Magni, a commodi atque aliquid, quas officia cupiditate asperiores harum fugit maxime itaque ullam pariatur nam consequuntur tempora voluptates numquam.Ut nemo laudantium praesentium consequuntur aspernatur totam tempora officiis earum incidunt iste. Dolores consequatur assumenda iusto, cupiditate deleniti aliquid ipsam ipsa deserunt quibusdam repellendus est sapiente voluptatibus ea commodi quidem! Consequatur, corrupti excepturi sit laboriosam sapiente minus asperiores itaque atque dolor perferendis quis nostrum incidunt, molestiae corporis eligendi tempora, eos deleniti nobis quas recusandae ducimus cumque quae vitae. Voluptates, saepe.",
+        "producStars":"5",
+        "producCategory":"woman",
+        "producBrend":"Bags",
+        "productId":"prod_1"
+    },
+    {
+        "productName":"STRAWBERRY PEOPLE T-SHIRT",
+        "productPrice":55,
+        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem3.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem3.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem3.jpg",
+        "producSizes": [
+            "xxs",
+            "xs"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias harum dolores expedita earum commodi tempora hic veniam magni nulla nobis. Possimus eos modi minus accusantium quis corporis, temporibus aliquam! Dicta. Provident facere eum, ipsam voluptatem perferendis laudantium dolorem delectus cupiditate repellendus! Inventore vero, facilis veniam et voluptas iure, quis molestias nisi, quia error ab ipsam dolorem eveniet. Sint, quos rem. Molestiae autem fugiat impedit repellendus beatae, omnis quae consequatur dignissimos! Minus modi sunt ab eaque porro sequi eligendi, corrupti impedit et ipsam eum placeat sint quaerat vero asperiores perspiciatis neque. Incidunt consectetur quae impedit illo doloribus dolore ab iure veritatis ratione unde. Voluptatem ea perspiciatis exercitationem reiciendis minima consectetur magni laboriosam, recusandae, nobis labore voluptates maiores velit delectus, fugiat magnam? Dolorem natus consequuntur iste rem, repudiandae nisi, quaerat vero aspernatur reprehenderit exercitationem aut voluptatibus optio maiores. Illo vel tenetur perspiciatis maiores, nesciunt nostrum? Ullam porro voluptatum omnis corporis distinctio quae. Id necessitatibus nam debitis a nihil! Aliquam, laudantium. Et quae magnam aperiam inventore earum illo repellat ratione corrupti a, fugiat dolor quasi ad magni libero facilis, voluptatibus veniam ab eaque? Officiis, velit? Vel quidem harum, libero ipsam sunt porro ex assumenda exercitationem, ducimus deleniti quaerat aut. Suscipit maiores eius quaerat molestias laudantium quibusdam illo, doloribus sed facere delectus impedit obcaecati.",
+        "producStars":"4",
+        "producCategory":"man",
+        "producBrend":"Denim",
+        "productId":"prod_2"
+    },
+    {
+        "productName":"ORANGE PEOPLE T-SHIRT",
+        "productPrice":67,
+        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem4.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem4.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem4.jpg",
+        "producSizes": [
+            "xxl",
+            "xl",
+            "l"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum ratione, impedit hic neque consequuntur iusto. Tempore dolorum consequuntur rem alias veniam sit deserunt iure vitae inventore, quaerat sequi quidem laboriosam! Libero quisquam enim distinctio quod excepturi ipsam consequatur natus asperiores suscipit nihil, quaerat corporis ipsa accusantium, est veniam, velit doloribus. Ex perspiciatis dolore vel omnis, nemo dolorem pariatur quaerat voluptatum. Soluta sint quae suscipit in quibusdam libero vero iusto deleniti architecto corrupti? Similique laudantium qui, molestiae labore quis velit animi rerum nam ipsam commodi delectus aliquid praesentium dolorum odio asperiores! Quo excepturi pariatur beatae suscipit deleniti dolor voluptas, sequi assumenda tenetur ipsam totam possimus ratione voluptatibus facilis distinctio eveniet velit, numquam laudantium hic exercitationem et reprehenderit? Asperiores delectus voluptatibus quam? Suscipit fuga aliquam nulla ex, error saepe ipsum sequi nisi perferendis nemo. Maiores amet repudiandae, iste a molestiae laboriosam quam non sapiente velit, ipsa ratione impedit illum earum, architecto quia.",
+        "producStars":"5",
+        "producCategory":"woman",
+        "producBrend":"Hoodies & Sweatshirts",
+        "productId":"prod_3"
+    },
+    {
+        "productName":"PUMKIN PEOPLE T-SHIRT",
+        "productPrice":69,
+        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem5.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem5.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem5.jpg",
+        "producSizes": [
+            "s",
+            "m",
+            "l"
+        ],
+        "producDescription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est amet vero quasi ipsam fugit rem eum eius nihil asperiores blanditiis tempora assumenda pariatur voluptatem corporis provident, fuga impedit, molestiae possimus? Unde, perferendis a vel quos, repellendus veritatis porro tenetur eveniet rerum quia modi voluptatem enim, dolorum impedit ut. Iste quam, facere totam amet consequatur tempora qui dicta exercitationem facilis sed? Aliquam consectetur illo distinctio sunt aliquid facere ratione nulla, dolor quibusdam animi doloribus similique sint deserunt sapiente asperiores minima vitae nisi minus quaerat quas! Eos inventore dolores obcaecati. At, rerum. Aperiam dignissimos similique quaerat dicta fuga quasi corrupti quas rem. Magni, a commodi atque aliquid, quas officia cupiditate asperiores harum fugit maxime itaque ullam pariatur nam consequuntur tempora voluptates numquam.Ut nemo laudantium praesentium consequuntur aspernatur totam tempora officiis earum incidunt iste. Dolores consequatur assumenda iusto, cupiditate deleniti aliquid ipsam ipsa deserunt quibusdam repellendus est sapiente voluptatibus ea commodi quidem! Consequatur, corrupti excepturi sit laboriosam sapiente minus asperiores itaque atque dolor perferendis quis nostrum incidunt, molestiae corporis eligendi tempora, eos deleniti nobis quas recusandae ducimus cumque quae vitae. Voluptates, saepe.",
+        "producStars":"5",
+        "producCategory":"woman",
+        "producBrend":"Jackets & Coats",
+        "productId":"prod_4"
+    },
+    {
+        "productName":"PINEAPPLE PEOPLE T-SHIRT",
+        "productPrice":94,
+        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem6.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem6.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem6.jpg",
+        "producSizes": [
+            "xxl",
+            "xxs",
+            "s",
+            "l"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias harum dolores expedita earum commodi tempora hic veniam magni nulla nobis. Possimus eos modi minus accusantium quis corporis, temporibus aliquam! Dicta. Provident facere eum, ipsam voluptatem perferendis laudantium dolorem delectus cupiditate repellendus! Inventore vero, facilis veniam et voluptas iure, quis molestias nisi, quia error ab ipsam dolorem eveniet. Sint, quos rem. Molestiae autem fugiat impedit repellendus beatae, omnis quae consequatur dignissimos! Minus modi sunt ab eaque porro sequi eligendi, corrupti impedit et ipsam eum placeat sint quaerat vero asperiores perspiciatis neque. Incidunt consectetur quae impedit illo doloribus dolore ab iure veritatis ratione unde. Voluptatem ea perspiciatis exercitationem reiciendis minima consectetur magni laboriosam, recusandae, nobis labore voluptates maiores velit delectus, fugiat magnam? Dolorem natus consequuntur iste rem, repudiandae nisi, quaerat vero aspernatur reprehenderit exercitationem aut voluptatibus optio maiores. Illo vel tenetur perspiciatis maiores, nesciunt nostrum? Ullam porro voluptatum omnis corporis distinctio quae. Id necessitatibus nam debitis a nihil! Aliquam, laudantium. Et quae magnam aperiam inventore earum illo repellat ratione corrupti a, fugiat dolor quasi ad magni libero facilis, voluptatibus veniam ab eaque? Officiis, velit? Vel quidem harum, libero ipsam sunt porro ex assumenda exercitationem, ducimus deleniti quaerat aut. Suscipit maiores eius quaerat molestias laudantium quibusdam illo, doloribus sed facere delectus impedit obcaecati.",
+        "producStars":"3",
+        "producCategory":"man",
+        "producBrend":"Pants",
+        "productId":"prod_5"
+    },
+    {
+        "productName":"CUCUMBER PEOPLE T-SHIRT",
+        "productPrice":23,
+        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem7.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem7.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem7.jpg",
+        "producSizes": [
+            "xs",
+            "s",
+            "m",
+            "l",
+            "xl"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum ratione, impedit hic neque consequuntur iusto. Tempore dolorum consequuntur rem alias veniam sit deserunt iure vitae inventore, quaerat sequi quidem laboriosam! Libero quisquam enim distinctio quod excepturi ipsam consequatur natus asperiores suscipit nihil, quaerat corporis ipsa accusantium, est veniam, velit doloribus. Ex perspiciatis dolore vel omnis, nemo dolorem pariatur quaerat voluptatum. Soluta sint quae suscipit in quibusdam libero vero iusto deleniti architecto corrupti? Similique laudantium qui, molestiae labore quis velit animi rerum nam ipsam commodi delectus aliquid praesentium dolorum odio asperiores! Quo excepturi pariatur beatae suscipit deleniti dolor voluptas, sequi assumenda tenetur ipsam totam possimus ratione voluptatibus facilis distinctio eveniet velit, numquam laudantium hic exercitationem et reprehenderit? Asperiores delectus voluptatibus quam? Suscipit fuga aliquam nulla ex, error saepe ipsum sequi nisi perferendis nemo. Maiores amet repudiandae, iste a molestiae laboriosam quam non sapiente velit, ipsa ratione impedit illum earum, architecto quia.",
+        "producStars":"4",
+        "producCategory":"man",
+        "producBrend":"Polos",
+        "productId":"prod_6"
+    },
+    {
+        "productName":"TOMATO PEOPLE T-SHIRT",
+        "productPrice":45,
+        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem8.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem8.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem8.jpg",
+        "producSizes": [
+            "s"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias harum dolores expedita earum commodi tempora hic veniam magni nulla nobis. Possimus eos modi minus accusantium quis corporis, temporibus aliquam! Dicta. Provident facere eum, ipsam voluptatem perferendis laudantium dolorem delectus cupiditate repellendus! Inventore vero, facilis veniam et voluptas iure, quis molestias nisi, quia error ab ipsam dolorem eveniet. Sint, quos rem. Molestiae autem fugiat impedit repellendus beatae, omnis quae consequatur dignissimos! Minus modi sunt ab eaque porro sequi eligendi, corrupti impedit et ipsam eum placeat sint quaerat vero asperiores perspiciatis neque. Incidunt consectetur quae impedit illo doloribus dolore ab iure veritatis ratione unde. Voluptatem ea perspiciatis exercitationem reiciendis minima consectetur magni laboriosam, recusandae, nobis labore voluptates maiores velit delectus, fugiat magnam? Dolorem natus consequuntur iste rem, repudiandae nisi, quaerat vero aspernatur reprehenderit exercitationem aut voluptatibus optio maiores. Illo vel tenetur perspiciatis maiores, nesciunt nostrum? Ullam porro voluptatum omnis corporis distinctio quae. Id necessitatibus nam debitis a nihil! Aliquam, laudantium. Et quae magnam aperiam inventore earum illo repellat ratione corrupti a, fugiat dolor quasi ad magni libero facilis, voluptatibus veniam ab eaque? Officiis, velit? Vel quidem harum, libero ipsam sunt porro ex assumenda exercitationem, ducimus deleniti quaerat aut. Suscipit maiores eius quaerat molestias laudantium quibusdam illo, doloribus sed facere delectus impedit obcaecati.",
+        "producStars":"5",
+        "producCategory":"man",
+        "producBrend":"Shirts",
+        "productId":"prod_7"
+    },
+    {
+        "productName":"BLACK PEOPLE T-SHIRT",
+        "productPrice":350,
+        "productImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Product1.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/ProductDetails1.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Product1.jpg",
+        "producSizes": [
+            "s",
+            "m",
+            "l",
+            "xs",
+            "xxs"
+        ],
+        "producDescription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est amet vero quasi ipsam fugit rem eum eius nihil asperiores blanditiis tempora assumenda pariatur voluptatem corporis provident, fuga impedit, molestiae possimus? Unde, perferendis a vel quos, repellendus veritatis porro tenetur eveniet rerum quia modi voluptatem enim, dolorum impedit ut. Iste quam, facere totam amet consequatur tempora qui dicta exercitationem facilis sed? Aliquam consectetur illo distinctio sunt aliquid facere ratione nulla, dolor quibusdam animi doloribus similique sint deserunt sapiente asperiores minima vitae nisi minus quaerat quas! Eos inventore dolores obcaecati. At, rerum. Aperiam dignissimos similique quaerat dicta fuga quasi corrupti quas rem. Magni, a commodi atque aliquid, quas officia cupiditate asperiores harum fugit maxime itaque ullam pariatur nam consequuntur tempora voluptates numquam.Ut nemo laudantium praesentium consequuntur aspernatur totam tempora officiis earum incidunt iste. Dolores consequatur assumenda iusto, cupiditate deleniti aliquid ipsam ipsa deserunt quibusdam repellendus est sapiente voluptatibus ea commodi quidem! Consequatur, corrupti excepturi sit laboriosam sapiente minus asperiores itaque atque dolor perferendis quis nostrum incidunt, molestiae corporis eligendi tempora, eos deleniti nobis quas recusandae ducimus cumque quae vitae. Voluptates, saepe.",
+        "producStars":"5",
+        "producCategory":"man",
+        "producBrend":"Shoes",
+        "productId":"prod_8"
+    },
+    {
+        "productName":"BOY PEOPLE T-SHIRT",
+        "productPrice":300,
+        "productImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Product2.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/ProductDetails2.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Product2.jpg",
+        "producSizes": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias harum dolores expedita earum commodi tempora hic veniam magni nulla nobis. Possimus eos modi minus accusantium quis corporis, temporibus aliquam! Dicta. Provident facere eum, ipsam voluptatem perferendis laudantium dolorem delectus cupiditate repellendus! Inventore vero, facilis veniam et voluptas iure, quis molestias nisi, quia error ab ipsam dolorem eveniet. Sint, quos rem. Molestiae autem fugiat impedit repellendus beatae, omnis quae consequatur dignissimos! Minus modi sunt ab eaque porro sequi eligendi, corrupti impedit et ipsam eum placeat sint quaerat vero asperiores perspiciatis neque. Incidunt consectetur quae impedit illo doloribus dolore ab iure veritatis ratione unde. Voluptatem ea perspiciatis exercitationem reiciendis minima consectetur magni laboriosam, recusandae, nobis labore voluptates maiores velit delectus, fugiat magnam? Dolorem natus consequuntur iste rem, repudiandae nisi, quaerat vero aspernatur reprehenderit exercitationem aut voluptatibus optio maiores. Illo vel tenetur perspiciatis maiores, nesciunt nostrum? Ullam porro voluptatum omnis corporis distinctio quae. Id necessitatibus nam debitis a nihil! Aliquam, laudantium. Et quae magnam aperiam inventore earum illo repellat ratione corrupti a, fugiat dolor quasi ad magni libero facilis, voluptatibus veniam ab eaque? Officiis, velit? Vel quidem harum, libero ipsam sunt porro ex assumenda exercitationem, ducimus deleniti quaerat aut. Suscipit maiores eius quaerat molestias laudantium quibusdam illo, doloribus sed facere delectus impedit obcaecati.",
+        "producStars":"3",
+        "producCategory":"man",
+        "producBrend":"Shorts",
+        "productId":"prod_9"
+    },
+    {
+        "productName":"GENEROUS PEOPLE T-SHIRT",
+        "productPrice":390,
+        "productImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Product4.jpg",
+        "producSmallImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/ProductDetails3.jpg",
+        "producBigImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/Product4.jpg",
+        "producSizes": [
+            "xxs",
+            "xs",
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum ratione, impedit hic neque consequuntur iusto. Tempore dolorum consequuntur rem alias veniam sit deserunt iure vitae inventore, quaerat sequi quidem laboriosam! Libero quisquam enim distinctio quod excepturi ipsam consequatur natus asperiores suscipit nihil, quaerat corporis ipsa accusantium, est veniam, velit doloribus. Ex perspiciatis dolore vel omnis, nemo dolorem pariatur quaerat voluptatum. Soluta sint quae suscipit in quibusdam libero vero iusto deleniti architecto corrupti? Similique laudantium qui, molestiae labore quis velit animi rerum nam ipsam commodi delectus aliquid praesentium dolorum odio asperiores! Quo excepturi pariatur beatae suscipit deleniti dolor voluptas, sequi assumenda tenetur ipsam totam possimus ratione voluptatibus facilis distinctio eveniet velit, numquam laudantium hic exercitationem et reprehenderit? Asperiores delectus voluptatibus quam? Suscipit fuga aliquam nulla ex, error saepe ipsum sequi nisi perferendis nemo. Maiores amet repudiandae, iste a molestiae laboriosam quam non sapiente velit, ipsa ratione impedit illum earum, architecto quia.",
+        "producStars":"5",
+        "producCategory":"man",
+        "producBrend":"Sweaters & Knits",
+        "productId":"prod_10"
+    },
+    {
+        "productName":"DANCING PEOPLE T-SHIRT",
+        "productPrice":1000,
+        "productImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso1.png",
+        "producSmallImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso1.png",
+        "producBigImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso1.png",
+        "producSizes": [
+            "s",
+            "m"
+        ],
+        "producDescription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est amet vero quasi ipsam fugit rem eum eius nihil asperiores blanditiis tempora assumenda pariatur voluptatem corporis provident, fuga impedit, molestiae possimus? Unde, perferendis a vel quos, repellendus veritatis porro tenetur eveniet rerum quia modi voluptatem enim, dolorum impedit ut. Iste quam, facere totam amet consequatur tempora qui dicta exercitationem facilis sed? Aliquam consectetur illo distinctio sunt aliquid facere ratione nulla, dolor quibusdam animi doloribus similique sint deserunt sapiente asperiores minima vitae nisi minus quaerat quas! Eos inventore dolores obcaecati. At, rerum. Aperiam dignissimos similique quaerat dicta fuga quasi corrupti quas rem. Magni, a commodi atque aliquid, quas officia cupiditate asperiores harum fugit maxime itaque ullam pariatur nam consequuntur tempora voluptates numquam.Ut nemo laudantium praesentium consequuntur aspernatur totam tempora officiis earum incidunt iste. Dolores consequatur assumenda iusto, cupiditate deleniti aliquid ipsam ipsa deserunt quibusdam repellendus est sapiente voluptatibus ea commodi quidem! Consequatur, corrupti excepturi sit laboriosam sapiente minus asperiores itaque atque dolor perferendis quis nostrum incidunt, molestiae corporis eligendi tempora, eos deleniti nobis quas recusandae ducimus cumque quae vitae. Voluptates, saepe.",
+        "producStars":"4",
+        "producCategory":"woman",
+        "producBrend":"T-Shirts",
+        "productId":"prod_11"
+    },
+    {
+        "productName":"SAMMER PEOPLE T-SHIRT",
+        "productPrice":500,
+        "productImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso2.png",
+        "producSmallImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso2.png",
+        "producBigImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso2.png",
+        "producSizes": [
+            "xs",
+            "s"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias harum dolores expedita earum commodi tempora hic veniam magni nulla nobis. Possimus eos modi minus accusantium quis corporis, temporibus aliquam! Dicta. Provident facere eum, ipsam voluptatem perferendis laudantium dolorem delectus cupiditate repellendus! Inventore vero, facilis veniam et voluptas iure, quis molestias nisi, quia error ab ipsam dolorem eveniet. Sint, quos rem. Molestiae autem fugiat impedit repellendus beatae, omnis quae consequatur dignissimos! Minus modi sunt ab eaque porro sequi eligendi, corrupti impedit et ipsam eum placeat sint quaerat vero asperiores perspiciatis neque. Incidunt consectetur quae impedit illo doloribus dolore ab iure veritatis ratione unde. Voluptatem ea perspiciatis exercitationem reiciendis minima consectetur magni laboriosam, recusandae, nobis labore voluptates maiores velit delectus, fugiat magnam? Dolorem natus consequuntur iste rem, repudiandae nisi, quaerat vero aspernatur reprehenderit exercitationem aut voluptatibus optio maiores. Illo vel tenetur perspiciatis maiores, nesciunt nostrum? Ullam porro voluptatum omnis corporis distinctio quae. Id necessitatibus nam debitis a nihil! Aliquam, laudantium. Et quae magnam aperiam inventore earum illo repellat ratione corrupti a, fugiat dolor quasi ad magni libero facilis, voluptatibus veniam ab eaque? Officiis, velit? Vel quidem harum, libero ipsam sunt porro ex assumenda exercitationem, ducimus deleniti quaerat aut. Suscipit maiores eius quaerat molestias laudantium quibusdam illo, doloribus sed facere delectus impedit obcaecati.",
+        "producStars":"3",
+        "producCategory":"woman",
+        "producBrend":"Tanks",
+        "productId":"prod_12"
+    },
+    {
+        "productName":"CHACHA PEOPLE T-SHIRT",
+        "productPrice":640,
+        "productImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso3.png",
+        "producSmallImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso3.png",
+        "producBigImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso3.png",
+        "producSizes": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "producDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum ratione, impedit hic neque consequuntur iusto. Tempore dolorum consequuntur rem alias veniam sit deserunt iure vitae inventore, quaerat sequi quidem laboriosam! Libero quisquam enim distinctio quod excepturi ipsam consequatur natus asperiores suscipit nihil, quaerat corporis ipsa accusantium, est veniam, velit doloribus. Ex perspiciatis dolore vel omnis, nemo dolorem pariatur quaerat voluptatum. Soluta sint quae suscipit in quibusdam libero vero iusto deleniti architecto corrupti? Similique laudantium qui, molestiae labore quis velit animi rerum nam ipsam commodi delectus aliquid praesentium dolorum odio asperiores! Quo excepturi pariatur beatae suscipit deleniti dolor voluptas, sequi assumenda tenetur ipsam totam possimus ratione voluptatibus facilis distinctio eveniet velit, numquam laudantium hic exercitationem et reprehenderit? Asperiores delectus voluptatibus quam? Suscipit fuga aliquam nulla ex, error saepe ipsum sequi nisi perferendis nemo. Maiores amet repudiandae, iste a molestiae laboriosam quam non sapiente velit, ipsa ratione impedit illum earum, architecto quia.",
+        "producStars":"4",
+        "producCategory":"woman",
+        "producBrend":"Accessories",
+        "productId":"prod_13"
+    },
+    {
+        "productName":"GRAY PEOPLE T-SHIRT",
+        "productPrice":120,
+        "productImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso4.png",
+        "producSmallImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso4.png",
+        "producBigImg":"https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/singlePageAlso4.png",
+        "producSizes": [
+            "xxs",
+            "xs",
+            "s",
+            "xxl",
+            "xl"
+        ],
+        "producDescription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est amet vero quasi ipsam fugit rem eum eius nihil asperiores blanditiis tempora assumenda pariatur voluptatem corporis provident, fuga impedit, molestiae possimus? Unde, perferendis a vel quos, repellendus veritatis porro tenetur eveniet rerum quia modi voluptatem enim, dolorum impedit ut. Iste quam, facere totam amet consequatur tempora qui dicta exercitationem facilis sed? Aliquam consectetur illo distinctio sunt aliquid facere ratione nulla, dolor quibusdam animi doloribus similique sint deserunt sapiente asperiores minima vitae nisi minus quaerat quas! Eos inventore dolores obcaecati. At, rerum. Aperiam dignissimos similique quaerat dicta fuga quasi corrupti quas rem. Magni, a commodi atque aliquid, quas officia cupiditate asperiores harum fugit maxime itaque ullam pariatur nam consequuntur tempora voluptates numquam.Ut nemo laudantium praesentium consequuntur aspernatur totam tempora officiis earum incidunt iste. Dolores consequatur assumenda iusto, cupiditate deleniti aliquid ipsam ipsa deserunt quibusdam repellendus est sapiente voluptatibus ea commodi quidem! Consequatur, corrupti excepturi sit laboriosam sapiente minus asperiores itaque atque dolor perferendis quis nostrum incidunt, molestiae corporis eligendi tempora, eos deleniti nobis quas recusandae ducimus cumque quae vitae. Voluptates, saepe.",
+        "producStars":"5",
+        "producCategory":"woman",
+        "producBrend":"Accessories",
+        "productId":"prod_14"
+    }
+]

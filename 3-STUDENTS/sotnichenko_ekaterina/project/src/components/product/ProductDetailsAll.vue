@@ -12,7 +12,7 @@
         </div>
         <div class="productDetailsProduct">
             <div class="productDetailsDescription">
-                <img src="../../../src/assets/imgs/ProductDetails1.jpg" alt="Product1">
+                <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/ProductDetails1.jpg" alt="Product1">
                 <div class="productDescription">
                     <div class="productDescriptionTitle">Mango  People  T-shirt</div>
                     <div>
@@ -35,7 +35,7 @@
         </div>
         <div class="productDetailsProduct">
             <div class="productDetailsDescription">
-                <img src="../../../src/assets/imgs/ProductDetails2.jpg" alt="Product2">
+                <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/ProductDetails2.jpg" alt="Product2">
                 <div class="productDescription">
                     <div class="productDescriptionTitle">Mango  People  T-shirt</div>
                     <div>
@@ -58,7 +58,7 @@
         </div>
         <div class="productDetailsProduct">
             <div class="productDetailsDescription">
-                <img src="../../../src/assets/imgs/ProductDetails3.jpg" alt="Product3">
+                <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/ProductDetails3.jpg" alt="Product3">
                 <div class="productDescription">
                     <div class="productDescriptionTitle">Mango  People  T-shirt</div>
                     <div>

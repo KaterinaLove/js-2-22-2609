@@ -16,7 +16,7 @@
                     <img :src="item.productImg" class="catalog__img"  alt="#">
                 </div>
                 <div class="catalog__content">
-                    <a class="catalog__name" href="#">{{ item.productName }}</a>
+                    <a class="catalog__name" @click="$router.push('/SinglePage')">{{ item.productName }}</a>
                     <div class="catalog__price">${{ item.productPrice + '.00'}}</div>
                 </div>
             </div>
@@ -24,12 +24,12 @@
 
         <template v-if="type == 'basket'">
             <div class="drop__box" :data-id="item.productId">
-                <a class="drop__img" href="single.html">
+                <a class="drop__img" @click="$router.push('/SinglePage')">
                     <img :src="item.productImg" alt="#" width="72" height="85">
                 </a>
                 <div class="drop__info">
-                    <a href="single.html" class="drop__title">{{item.productName}}</a>
-                    <img src="../../src/assets/imgs/drop_cart/stars.png" alt="#">
+                    <a @click="$router.push('/SinglePage')" class="drop__title">{{item.productName}}</a>
+                    <img src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/drop_cart/stars.png" alt="#">
                     <div class="drop__price">
                         <span class="drop__count" :data-id="item.productId">{{ item.amount }}</span>
                         <span class="drop__span">${{item.productPrice}}</span>

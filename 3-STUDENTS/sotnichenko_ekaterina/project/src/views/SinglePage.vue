@@ -15,7 +15,7 @@
 
 <script>
 import HeaderProduct from '../components/product/HeaderProduct.vue';
-import NavProduct from '../components/product/NavProduct.vue';
+import NavCenter from '../components/additional/NavCenter.vue';
 import NewArrivalsBg from '../components/product/NewArrivalsBg.vue';
 import SubscribeBg from '../components/product/SubscribeBg.vue';
 import FooterContainer from '../components/product/FooterContainer.vue';
@@ -25,7 +25,7 @@ import CarouselExampleControls from '../components/product/CarouselExampleContro
 export default {
     components: {
         HeaderProduct,
-        NavProduct,
+        NavCenter,
         NewArrivalsBg,
         SubscribeBg,
         FooterContainer,

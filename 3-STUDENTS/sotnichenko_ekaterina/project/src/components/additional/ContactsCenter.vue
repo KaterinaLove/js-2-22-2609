@@ -1,15 +1,12 @@
 <template>
 <div class="contacts center">
     <div class="contacts__item contacts__item--brand">
-        <router-link :to="{name: 'Index'}">
-            <span class="logo">
-                <img class="logo__img" src="../../../src/assets/imgs/logo.png" alt="logo">
+            <router-link to="/" class="logo">
+                <img class="logo__img" src="https://raw.githubusercontent.com/KaterinaLove/static/master/img/JS1_shop/imgs/logo.png" alt="logo">
                 <span class="logo__text">BRAN
                     <span class="logo__text--last_letter">D</span>
                 </span>
-            </span>
-        </router-link>
-        
+            </router-link>
         <div class="contacts__text">
             <p class="contacts__paragraph">Objectively transition extensive data rather than cross functional solutions. Monotonectally syndicate multidisciplinary materials before go forward benefits. Intrinsicly syndicate an expanded array of processes and cross-unit partnerships.</p>
             <p class="contacts__paragraph">Efficiently plagiarize 24/365 action items and focused infomediaries. Distinctively seize superior initiatives for wireless technologies. Dynamically optimize.</p>
@@ -18,12 +15,8 @@
     <nav class="contacts__item">
         <div class="contacts__title">Company</div>
         <ul class="contacts__list">
-            <router-link :to="{name: 'Index'}">
-                <li><span >Home</span></li>
-            </router-link>
-            <router-link :to="{name: 'Product'}">
-                <li><span >Shop</span></li>
-            </router-link>
+                <li><router-link to="/" >Home</router-link></li>
+                <li><router-link to="/Product" >Shop</router-link></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">How It Works</a></li>
                 <li><a href="#">Brows All</a></li>

@@ -2,7 +2,7 @@
     <div>
         <HeaderProduct />
         <div class="headerLine"></div>
-        <NavProduct />
+        <NavCenter />
         <NewArrivalsBg />
         <main>
             <ProductDetailsAll />
@@ -16,7 +16,7 @@
 
 <script>
 import HeaderProduct from '../components/product/HeaderProduct.vue';
-import NavProduct from '../components/product/NavProduct.vue';
+import NavCenter from '../components/additional/NavCenter.vue';
 import NewArrivalsBg from '../components/product/NewArrivalsBg.vue';
 import SubscribeBg from '../components/product/SubscribeBg.vue';
 import FooterContainer from '../components/product/FooterContainer.vue';
@@ -27,7 +27,7 @@ import ShippingContainer from '../components/product/ShippingContainer.vue';
 export default {
     components: {
         HeaderProduct,
-        NavProduct,
+        NavCenter,
         NewArrivalsBg,
         SubscribeBg,
         FooterContainer,
